@@ -1,1 +1,1 @@
-# ML_assignments
+# iNeuron.ai ML_assignments
